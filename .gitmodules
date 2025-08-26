@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = git@github.com/tnmt-1/obsidian-notes.git
